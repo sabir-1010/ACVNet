@@ -1,0 +1,1 @@
+/home/sabir/Desktop/check_samdani/ACVNet/Sampler/Driving/RGB_cleanpass/left/0400.png /home/sabir/Desktop/check_samdani/ACVNet/Sampler/Driving/RGB_cleanpass/right/0400.png /home/sabir/Desktop/check_samdani/ACVNet/Sampler/Driving/disparity/0400.pfm
